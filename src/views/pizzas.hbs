@@ -1,0 +1,90 @@
+<nav class="topbar">
+
+</nav>
+
+<div class="container ">
+
+
+
+    <div class="row justify-content-center">
+        <!-- Earnings (Monthly) Card Example -->
+        {{#each bara}}
+            <div class="col-xl-3 col-md-6 mb-4">
+                <div class="card border-left-primary shadow h-100 py-2">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
+                                    Pizza mas barata
+                                </div>
+                                <div class="h5 mb-0 font-weight-bold text-gray-800"> {{Type}}: ${{Price}}</div>
+                            </div>
+                            <div class="col-auto">
+                                <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {{/each}}
+        <!-- Earnings (Monthly) Card Example -->
+        {{#each cara}}
+            <div class="col-xl-3 col-md-6 mb-4">
+                <div class="card border-left-success shadow h-100 py-2">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
+                                    Pizza mas cara
+                                </div>
+                                <div class="h5 mb-0 font-weight-bold text-gray-800">{{Type}}: ${{Price}}</div>
+                            </div>
+                            <div class="col-auto">
+                                <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        {{/each}}
+
+
+<section id="domi">
+    <div class="row">
+        {{#each result1}}
+            <div class="col-xl-3 col-md-6 mb-4">
+                <div class="card" style="width: 15rem;">
+                    <div class="card-header">{{Company}}
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">Nombre:{{'Pizza Name'}}</li>
+                        <li class="list-group-item">Precio: {{Price}}</li>
+                        <li class="list-group-item">Tamaño: {{Size}}</li>
+                        <li class="list-group-item">Tipo: {{Type}}</li>
+
+                    </ul>
+                </div>
+            </div>
+        {{/each}}
+    </div>
+</section>
+
+<section id="hut">
+    <div class="row">
+        {{#each hut}}
+            <div class="col-xl-3 col-md-6 mb-4">
+                <div class="card" style="width: 15rem;">
+                    <div class="card-header">Pizza HOT
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">Precio: {{precio}}</li>
+                        <li class="list-group-item">Tamaño: {{tamaño}}</li>
+                        <li class="list-group-item">Nombre:{{nombre}}</li>
+                    </ul>
+                </div>
+            </div>
+        {{/each}}
+    </div>
+</section>
+
+</div>

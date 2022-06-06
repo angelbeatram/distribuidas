@@ -1,0 +1,2599 @@
+[
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Hand Tossed",
+    "Type": "Cheeses Pizza",
+    "Size": "Small (10\")",
+    "Price": "$5.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Hand Tossed",
+    "Type": "Cheeses Pizza",
+    "Size": "Medium (12\")",
+    "Price": "$7.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Hand Tossed",
+    "Type": "Cheeses Pizza",
+    "Size": "Large (14\")",
+    "Price": "$9.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Handmade Pan",
+    "Type": "Cheeses Pizza",
+    "Size": "Medium (12\")",
+    "Price": "$7.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Crunchy Thin Crust",
+    "Type": "Cheeses Pizza",
+    "Size": "Small (10\")",
+    "Price": "$5.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Crunchy Thin Crust",
+    "Type": "Cheeses Pizza",
+    "Size": "Medium (12\")",
+    "Price": "$7.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Crunchy Thin Crust",
+    "Type": "Cheeses Pizza",
+    "Size": "Large (14\")",
+    "Price": "$9.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Brooklyn Style",
+    "Type": "Cheeses Pizza",
+    "Size": "Large (14\")",
+    "Price": "$9.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Brooklyn Style",
+    "Type": "Cheeses Pizza",
+    "Size": "X-Large (16\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Gluten Free Crust",
+    "Type": "Cheeses Pizza",
+    "Size": "Small (10\")",
+    "Price": "$8.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Spinach & Feta (Hand Tossed or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Spinach & Feta (Hand Tossed, Handmade Pan or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Spinach & Feta (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Spinach & Feta (Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Spinach & Feta (Gluten Free Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Wisconsin 6 Cheese (Hand Tossed or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Wisconsin 6 Cheese (Hand Tossed, Handmade Pan or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Wisconsin 6 Cheese (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Wisconsin 6 Cheese (Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Wisconsin 6 Cheese (Gluten Free Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Honolulu Hawaiian (Hand Tossed or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Honolulu Hawaiian (Hand Tossed, Handmade Pan or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Honolulu Hawaiian (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Honolulu Hawaiian (Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Honolulu Hawaiian (Gluten Free Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Philly Cheese Steak (Hand Tossed or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Philly Cheese Steak (Hand Tossed, Handmade Pan or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Philly Cheese Steak (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Philly Cheese Steak (Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Philly Cheese Steak (Gluten Free Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Pacific Veggie (Hand Tossed or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Pacific Veggie (Hand Tossed, Handmade Pan or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Pacific Veggie (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Pacific Veggie (Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Pacific Veggie (Gluten Free Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Cali Chicken Bacon Ranch™ (Hand Tossed or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Cali Chicken Bacon Ranch™ (Hand Tossed, Handmade Pan or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Cali Chicken Bacon Ranch™ (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Cali Chicken Bacon Ranch™ (Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Cali Chicken Bacon Ranch™ (Gluten Free Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Fiery Hawaiian™ (Hand Tossed or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Fiery Hawaiian™ (Hand Tossed, Handmade Pan or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Fiery Hawaiian™ (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Fiery Hawaiian™ (Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Fiery Hawaiian™ (Gluten Free Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Buffalo Chicken (Hand Tossed or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Buffalo Chicken (Hand Tossed, Handmade Pan or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Buffalo Chicken (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Buffalo Chicken (Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Buffalo Chicken (Gluten Free Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Memphis BBQ Chicken (Hand Tossed or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Memphis BBQ Chicken (Hand Tossed, Hnadmade Pan or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Memphis BBQ Chicken (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Memphis BBQ Chicken (Brooklyn Style)",
+    "Type": "Specialty Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Memphis BBQ Chicken (Gluten Free Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "America's Favorite Feast® (Hand Tossed or Thin Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "America's Favorite Feast® (Hand Tossed or Thin Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "America's Favorite Feast® (Handmade Pan)",
+    "Type": "Feast Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "America's Favorite Feast® (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Feast Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "America's Favorite Feast® (Brooklyn Style)",
+    "Type": "Feast Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "America's Favorite Feast® (Gluten Free Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Bacon Cheeseburger Feast® (Hand Tossed or Thin Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Bacon Cheeseburger Feast® (Hand Tossed or Thin Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Bacon Cheeseburger Feast® (Handmade Pan)",
+    "Type": "Feast Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Bacon Cheeseburger Feast® (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Feast Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Bacon Cheeseburger Feast® (Brooklyn Style)",
+    "Type": "Feast Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Bacon Cheeseburger Feast® (Gluten Free Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Deluxe Feast® (Hand Tossed or Thin Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Deluxe Feast® (Hand Tossed or Thin Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Deluxe Feast® (Handmade Pan)",
+    "Type": "Feast Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Deluxe Feast® (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Feast Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Deluxe Feast® (Brooklyn Style)",
+    "Type": "Feast Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Deluxe Feast® (Gluten Free Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "ExtravaganZZa Feast® (Hand Tossed or Thin Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "ExtravaganZZa Feast® (Hand Tossed, Handmade Pan or Thin Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "ExtravaganZZa Feast® (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Feast Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "ExtravaganZZa Feast® (Brooklyn Style)",
+    "Type": "Feast Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "ExtravaganZZa Feast® (Gluten Free Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "MeatZZa Feast® (Hand Tossed or Thin Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "MeatZZa Feast® (Hand Tossed, Handmade Pan or Thin Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "MeatZZa Feast® (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Feast Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "MeatZZa Feast® (Brooklyn Style)",
+    "Type": "Feast Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "MeatZZa Feast® (Gluten Free Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Ultimate Pepperoni Feast™ (Hand Tossed or Thin Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Ultimate Pepperoni Feast™ (Hand Tossed, Handmade Pan or Thin Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Ultimate Pepperoni Feast™ (Hand Tossed, Thin Crust or Brooklyn Style)",
+    "Type": "Feast Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Ultimate Pepperoni Feast™ (Brooklyn Style)",
+    "Type": "Feast Pizzas",
+    "Size": "X-Large (16\")",
+    "Price": "$17.99"
+  },
+  {
+    "Company": "Domino's Pizza",
+    "Pizza Name": "Ultimate Pepperoni Feast™ (Gluten Free Crust)",
+    "Type": "Feast Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$14.99"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Hand-Tossed",
+    "Type": "Cheese Pizza",
+    "Size": "Medium",
+    "Price": "$8.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Hand-Tossed",
+    "Type": "Cheese Pizza",
+    "Size": "Large",
+    "Price": "$10.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Pan Pizza",
+    "Type": "Cheese Pizza",
+    "Size": "Personal",
+    "Price": "$4.29"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Pan Pizza",
+    "Type": "Cheese Pizza",
+    "Size": "Medium",
+    "Price": "$8.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Pan Pizza",
+    "Type": "Cheese Pizza",
+    "Size": "Large",
+    "Price": "$10.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Thin N Crispy",
+    "Type": "Cheese Pizza",
+    "Size": "Medium",
+    "Price": "$8.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Thin N Crispy",
+    "Type": "Cheese Pizza",
+    "Size": "Large",
+    "Price": "$10.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Stuffed Crust",
+    "Type": "Cheese Pizza",
+    "Size": "Large",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Skinny Slice",
+    "Type": "Cheese Pizza",
+    "Size": "Large",
+    "Price": "$10.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Pepperoni Lover's® Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Pepperoni Lover's® Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Pepperoni Lover's® Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Personal",
+    "Price": "$4.79"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Pepperoni Lover's® Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Pepperoni Lover's® Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Pepperoni Lover's® Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Pepperoni Lover's® Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Pepperoni Lover's® Pizza (Stuffed Crust)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$17.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Pepperoni Lover's® Pizza (Skinny Slice)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Meat Lover's® Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Meat Lover's® Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Meat Lover's® Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Personal",
+    "Price": "$4.79"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Meat Lover's® Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Meat Lover's® Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Meat Lover's® Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Meat Lover's® Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Meat Lover's® Pizza (Stuffed Crust)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$17.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Meat Lover's® Pizza (Skinny Slice)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Ultimate Cheese Lover's Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Ultimate Cheese Lover's Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Ultimate Cheese Lover's Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Personal",
+    "Price": "$4.79"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Ultimate Cheese Lover's Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Ultimate Cheese Lover's Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Ultimate Cheese Lover's Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Ultimate Cheese Lover's Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Ultimate Cheese Lover's Pizza (Stuffed Crust)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$17.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Ultimate Cheese Lover's Pizza (Skinny Slice)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Veggie Lover's® Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Veggie Lover's® Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Veggie Lover's® Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Personal",
+    "Price": "$4.79"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Veggie Lover's® Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Veggie Lover's® Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Veggie Lover's® Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Veggie Lover's® Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Veggie Lover's® Pizza (Stuffed Crust)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$17.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Veggie Lover's® Pizza (Skinny Slice)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Supreme Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Supreme Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Supreme Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Personal",
+    "Price": "$4.79"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Supreme Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Supreme Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Supreme Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Supreme Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Supreme Pizza (Stuffed Crust)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$17.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Supreme Pizza (Skinny Slice)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "BBQ Lover's™ (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "BBQ Lover's™ (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "BBQ Lover's™ (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Personal",
+    "Price": "$4.79"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "BBQ Lover's™ (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "BBQ Lover's™ (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "BBQ Lover's™ (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "BBQ Lover's™ (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "BBQ Lover's™ (Stuffed Crust)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$17.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "BBQ Lover's™ (Skinny Slice)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Chicken Supreme Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$13.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Chicken Supreme Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$16.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Chicken Supreme Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Personal",
+    "Price": "$5.29"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Chicken Supreme Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$13.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Chicken Supreme Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$16.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Chicken Supreme Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$13.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Chicken Supreme Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$16.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Chicken Supreme Pizza (Stuffed Crust)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$18.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Chicken Supreme Pizza (Skinny Slice)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$16.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "New Primo Meat Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "New Primo Meat Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "New Primo Meat Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Personal",
+    "Price": "$4.79"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "New Primo Meat Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "New Primo Meat Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "New Primo Meat Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "New Primo Meat Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "New Primo Meat Pizza (Stuffed Crust)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$17.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "New Primo Meat Pizza (Skinny Slice)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Hawaiian Luau (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Hawaiian Luau (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Hawaiian Luau (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Personal",
+    "Price": "$4.79"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Hawaiian Luau (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Hawaiian Luau (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Hawaiian Luau (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Hawaiian Luau (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Hawaiian Luau (Stuffed Crust)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$17.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Hawaiian Luau (Skinny Slice)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Super Supreme Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$13.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Super Supreme Pizza (Hand-Tossed)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$16.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Super Supreme Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Personal",
+    "Price": "$5.29"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Super Supreme Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$13.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Super Supreme Pizza (Pan Pizza)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$16.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Super Supreme Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$13.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Super Supreme Pizza (Thin N Crispy)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$16.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Super Supreme Pizza (Stuffed Crust)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$18.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Super Supreme Pizza (Skinny Slice)",
+    "Type": "Classic Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$16.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Garden Party™ (Thin N Crispy)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Garden Party™ (Thin N Crispy)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Old Fashioned Meatbrawl™ (Pan Pizza)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Personal",
+    "Price": "$4.79"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Old Fashioned Meatbrawl™ (Pan Pizza)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Old Fashioned Meatbrawl™ (Pan Pizza)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Cock-a-doodle Bacon™ (Hand-Tossed)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Cock-a-doodle Bacon™ (Hand-Tossed)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Hot and Twisted™ (Hand-Tossed)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Hot and Twisted™ (Hand-Tossed)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Pretzel Piggy™ (Hand-Tossed)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Pretzel Piggy™ (Hand-Tossed)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "BBQ Bacon Cheeseburger (Hand-Tossed)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "BBQ Bacon Cheeseburger (Hand-Tossed)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Giddy-Up BBQ Chicken™ (Hand-Tossed)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Giddy-Up BBQ Chicken™ (Hand-Tossed)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Buffalo State of Mind™ (Hand-Tossed)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Buffalo State of Mind™ (Hand-Tossed)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Cherry Pepper Bombshell™ (Thin N Crispy)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Cherry Pepper Bombshell™ (Thin N Crispy)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "7-Alarm Fire™ (Hand-Tossed)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Medium",
+    "Price": "$12.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "7-Alarm Fire™ (Hand-Tossed)",
+    "Type": "New Recipe Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Skinny Beach™ (Skinny Slice)",
+    "Type": "Skinny Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Skinny With A Kick™ (Skinny Slice)",
+    "Type": "Skinny Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Skinny Italy (Skinny Slice)",
+    "Type": "Skinny Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Skinny Luau™ (Skinny Slice)",
+    "Type": "Skinny Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Skinny Club™ (Skinny Slice)",
+    "Type": "Skinny Pizzas",
+    "Size": "Large",
+    "Price": "$15.49"
+  },
+  {
+    "Company": "Pizza Hut",
+    "Pizza Name": "Create Your Own (Gluten-Free Crust)",
+    "Type": "Gluten-Free Pizzas",
+    "Size": "Small",
+    "Price": "$9.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Cheese (Original Crust)",
+    "Type": "Cheese Pizza",
+    "Size": "Mini",
+    "Price": "$4.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Cheese (Original or Golden Crust)",
+    "Type": "Cheese Pizza",
+    "Size": "Small",
+    "Price": "$10.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Cheese (Original, Golden or Thin Crust)",
+    "Type": "Cheese Pizza",
+    "Size": "Medium",
+    "Price": "$12.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Cheese (Mozza-Loaded Crust)",
+    "Type": "Cheese Pizza",
+    "Size": "Medium",
+    "Price": "$13.49"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Cheese (Original, Golden or Thin Crust)",
+    "Type": "Cheese Pizza",
+    "Size": "Large",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Cheese (Mozza-Loaded Crust)",
+    "Type": "Cheese Pizza",
+    "Size": "Large",
+    "Price": "$16.49"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Cheese (Original or Thin Crust)",
+    "Type": "Cheese Pizza",
+    "Size": "Jumbo",
+    "Price": "$18.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "All-Meat Combo Pizza (Original Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Mini",
+    "Price": "$5.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "All-Meat Combo Pizza (Original or Golden Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "All-Meat Combo Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$19.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "All-Meat Combo Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.24"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "All-Meat Combo Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$23.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "All-Meat Combo Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$27.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Bacon Cheeseburger Pizza (Original Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Mini",
+    "Price": "$5.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Bacon Cheeseburger Pizza (Original or Golden Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$19.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Bacon Cheeseburger Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.24"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$23.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Bacon Cheeseburger Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.23"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Bacon Cheeseburger Pizza (Original or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$27.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Taco Pie Pizza (Original Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Mini",
+    "Price": "$5.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Taco Pie Pizza (Original or Golden Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Taco Pie Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$19.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Taco Pie Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.24"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Taco Pie Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$23.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Taco Pie Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.23"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Taco Pie Pizza (Original or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$27.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Classic Combo Pizza (Original Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Mini",
+    "Price": "$5.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Classic Combo Pizza (Original or Golden Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Classic Combo Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$19.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Classic Combo Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.24"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Classic Combo Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$23.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Classic Combo Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.23"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Classic Combo Pizza (Original or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$27.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Humble Pie Pizza (Original Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Mini",
+    "Price": "$5.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Humble Pie Pizza (Original or Golden Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Humble Pie Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$19.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Humble Pie Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.24"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Humble Pie Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$23.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Humble Pie Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.23"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Humble Pie Pizza (Original or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$27.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Veggie Pie Pizza (Original Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Mini",
+    "Price": "$5.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Veggie Pie Pizza (Original or Golden Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Veggie Pie Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$19.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Veggie Pie Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.24"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Veggie Pie Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$23.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Veggie Pie Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.23"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Veggie Pie Pizza (Original or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$27.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Hot Stuff Pizza (Original Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Mini",
+    "Price": "$5.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Hot Stuff Pizza (Original or Golden Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Hot Stuff Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$19.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Hot Stuff Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.24"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Hot Stuff Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$23.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Hot Stuff Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.23"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Hot Stuff Pizza (Original or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$27.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Hawaiian Pizza (Original Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Mini",
+    "Price": "$5.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Hawaiian Pizza (Original or Golden Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Hawaiian Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$19.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Hawaiian Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.24"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Hawaiian Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$23.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Hawaiian Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.23"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Hawaiian Pizza (Original or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$27.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "BLT Pizza (Original Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Mini",
+    "Price": "$5.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "BLT Pizza (Original or Golden Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "BLT Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$19.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "BLT Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.24"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "BLT Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$23.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "BLT Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.23"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "BLT Pizza (Original or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$27.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Buffalo Chicken Pizza (Original Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Mini",
+    "Price": "$5.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Buffalo Chicken Pizza (Original or Golden Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Buffalo Chicken Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$19.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Buffalo Chicken Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.24"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Buffalo Chicken Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$23.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Buffalo Chicken Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.23"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Buffalo Chicken Pizza (Original or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$27.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Combo Pizza (Original or Golden Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$16.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Combo Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$21.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Combo Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.49"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Combo Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$25.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Combo Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.49"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Combo Pizza (Original or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$29.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Hawaiian Pizza (Original or Golden Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$16.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Hawaiian Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$21.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Hawaiian Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.49"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Hawaiian Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$25.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Hawaiian Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.49"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Hawaiian Pizza (Original or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$29.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Taco Pizza (Original or Golden Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$16.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Taco Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$21.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Taco Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.49"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Taco Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$25.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Taco Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.49"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Taco Pizza (Original or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$29.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "The Don (Original or Golden Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$16.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "The Don (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$21.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "The Don (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.49"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "The Don (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$25.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "The Don (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.49"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "The Don (Original or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$29.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Veggie Pizza (Original or Golden Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Veggie Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$20.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Veggie Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.49"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Veggie Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$24.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Veggie Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.49"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Super Veggie Pizza (Original or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$28.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "BBQ Bacon Cheeseburger Pizza (Original Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Mini",
+    "Price": "$5.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$19.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "BBQ Bacon Cheeseburger Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.24"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$23.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "BBQ Bacon Cheeseburger Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.23"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "BBQ Bacon Cheeseburger Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$27.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Chipotle Chicken and Bacon Pizza (Original Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Mini",
+    "Price": "$5.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Small",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$19.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Chipotle Chicken and Bacon Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$22.24"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$23.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Chipotle Chicken and Bacon Pizza (Mozza-Loaded Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$26.23"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Chipotle Chicken and Bacon Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Jumbo",
+    "Price": "$27.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Margherita Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$9.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Margherita Pizza (Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$13.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Margherita Chicken Pizza (Original, Golden or Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium",
+    "Price": "$11.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Margherita Chicken Pizza (Thin Crust)",
+    "Type": "Specialty Pizzas",
+    "Size": "Large",
+    "Price": "$15.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Thin Crust",
+    "Type": "Gluten-Free Pizzas",
+    "Size": "Medium",
+    "Price": "$19.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Thin Crust",
+    "Type": "Gluten-Free Pizzas",
+    "Size": "Large",
+    "Price": "$23.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Original Crust",
+    "Type": "Express Favorites",
+    "Size": "Mini",
+    "Price": "$4.99"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Original or Golden Crust",
+    "Type": "Express Favorites",
+    "Size": "Small",
+    "Price": "$12.69"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Original, Golden or Thin Crust",
+    "Type": "Express Favorites",
+    "Size": "Medium",
+    "Price": "$15.34"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Mozza-Loaded Crust",
+    "Type": "Express Favorites",
+    "Size": "Medium",
+    "Price": "$15.24"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Original, Golden or Thin Crust",
+    "Type": "Express Favorites",
+    "Size": "Large",
+    "Price": "$18.69"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Mozza-Loaded Crust",
+    "Type": "Express Favorites",
+    "Size": "Large",
+    "Price": "$18.74"
+  },
+  {
+    "Company": "Godfather's Pizza",
+    "Pizza Name": "Original or Thin Crust",
+    "Type": "Express Favorites",
+    "Size": "Jumbo",
+    "Price": "$21.99"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Deluxe Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$12.70"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Deluxe Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$16.20"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Deluxe Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$19.95"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Deluxe Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "X Large (16\")",
+    "Price": "$23.85"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Veggie Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$12.70"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Veggie Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$16.20"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Veggie Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$19.95"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Veggie Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "X Large (16\")",
+    "Price": "$23.85"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Cheese Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$9.30"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Cheese Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$11.60"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Cheese Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$14.45"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Cheese Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "X Large (16\")",
+    "Price": "$17.35"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "All Meat Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$12.70"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "All Meat Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$16.20"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "All Meat Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$19.95"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "All Meat Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "X Large (16\")",
+    "Price": "$23.85"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "BBQ Chicken Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$12.70"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "BBQ Chicken Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$16.20"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "BBQ Chicken Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$19.20"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "BBQ Chicken Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "X Large (16\")",
+    "Price": "$23.85"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Egg-Ceptional Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Small (10\")",
+    "Price": "$11.80"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Egg-Ceptional Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Medium (12\")",
+    "Price": "$14.95"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Egg-Ceptional Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "Large (14\")",
+    "Price": "$18.65"
+  },
+  {
+    "Company": "IMO's Pizza",
+    "Pizza Name": "Egg-Ceptional Pizza",
+    "Type": "Specialty Pizzas",
+    "Size": "X Large (16\")",
+    "Price": "$22.30"
+  }
+]
