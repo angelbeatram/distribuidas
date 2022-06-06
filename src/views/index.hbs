@@ -1,265 +1,49 @@
 <nav class="topbar">
 
 </nav>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<div class="container ">
-    <!-- Content Row -->
-    <div class="row justify-content-center">
-        <!-- Earnings (Monthly) Card Example -->
-        {{#each bara}}
-            <div class="col-xl-3 col-md-6 mb-4">
-                <div class="card border-left-primary shadow h-100 py-2">
-                    <div class="card-body">
-                        <div class="row no-gutters align-items-center">
-                            <div class="col mr-2">
-                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                                    Pizza mas barata
-                                </div>
-                                <div class="h5 mb-0 font-weight-bold text-gray-800"> {{Company}}: ${{Price}}</div>
-                            </div>
-                            <div class="col-auto">
-                                <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        {{/each}}
-        <!-- Earnings (Monthly) Card Example -->
-        {{#each cara}}
-            <div class="col-xl-3 col-md-6 mb-4">
-                <div class="card border-left-success shadow h-100 py-2">
-                    <div class="card-body">
-                        <div class="row no-gutters align-items-center">
-                            <div class="col mr-2">
-                                <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
-                                    Pizza mas cara
-                                </div>
-                                <div class="h5 mb-0 font-weight-bold text-gray-800">{{Company}}: ${{Price}}</div>
-                            </div>
-                            <div class="col-auto">
-                                <i class="fas fa-dollar-sign fa-2x text-gray-300"></i>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        {{/each}}
+<div class="container">
+<div class="row">
 
-        <!-- Earnings (Monthly) Card Example
-        <div class="col-xl-3 col-md-6 mb-4">
-            <div class="card border-left-info shadow h-100 py-2">
-                <div class="card-body">
-                    <div class="row no-gutters align-items-center">
-                        <div class="col mr-2">
-                            <div class="text-xs font-weight-bold text-info text-uppercase mb-1">Ganancias
-                            </div>
-                            <div class="row no-gutters align-items-center">
-                                <div class="col-auto">
-                                    <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">50%</div>
-                                </div>
-                                <div class="col">
-                                    <div class="progress progress-sm mr-2">
-                                        <div class="progress-bar bg-info" role="progressbar"
-                                             style="width: 80%" aria-valuenow="50" aria-valuemin="0"
-                                             aria-valuemax="100"></div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-auto">
-                            <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>-->
+    <div class="col-lg-4 col-md-12 mb-4 mb-lg-0">
+        <img
+                src="https://media.istockphoto.com/photos/delicious-vegetarian-pizza-on-white-picture-id1192094401?s=612x612"
+                class="w-100 shadow-1-strong rounded mb-4"
+                alt="Boat on Calm Water"
+        />
 
-        <!-- Pending Requests Card Example -->
-        <div class="col-xl-3 col-md-6 mb-4">
-            <div class="card border-left-warning shadow h-100 py-2">
-                <div class="card-body">
-                    <div class="row no-gutters align-items-center">
-                        <div class="col mr-2">
-                            <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">
-                                Total de pizzas vendidas
-                            </div>
-                            {{#each total}}
-                                <div class="h5 mb-0 font-weight-bold text-gray-800">{{total}}</div>
-                            {{/each}}
-                        </div>
-                        <div class="col-auto">
-                            <i class="fa fa-pizza-slice"></i>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+        <img
+                src="https://media.istockphoto.com/photos/concept-promotional-flyer-and-poster-for-restaurants-or-pizzerias-picture-id943449226"
+                class="w-100 shadow-1-strong rounded mb-4"
+                alt="Wintry Mountain Landscape"
+        />
     </div>
 
-    <!-- Content Row -->
-    <div class="row">
+    <div class="col-lg-4 mb-4 mb-lg-0">
+        <img
+                src="https://media.istockphoto.com/photos/round-pizza-lies-on-a-white-table-pizza-cut-with-a-circular-knife-picture-id1223658474?s=612x612"
+                class="w-100 shadow-1-strong rounded mb-4"
+                alt="Mountains in the Clouds"
+        />
 
-        <!-- Area Chart -->
-        <div class="col-xl-8 col-lg-7">
-            <div class="card shadow mb-4">
-                <!-- Card Header - Dropdown -->
-                <div
-                        class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                    <h6 class="m-0 font-weight-bold text-primary">Ventas por pizzeria</h6>
-                    <div class="dropdown no-arrow">
-
-                        <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in"
-                             aria-labelledby="dropdownMenuLink">
-                            <div class="dropdown-header">Dropdown Header:</div>
-                            <a class="dropdown-item" href="#">Action</a>
-                            <a class="dropdown-item" href="#">Another action</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Something else here</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Card Body -->
-                <div class="card-body">
-                    <div class="chart-area">
-                        <canvas id="myChart" ></canvas>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-
-            <script type="text/javascript">
-                let g1={{gods}},d1={{domis}},p1={{huts}},i1={{imos}}
-                google.charts.load("current", {packages:["corechart"]});
-                google.charts.setOnLoadCallback(drawChart);
-                function drawChart() {
-                var data = google.visualization.arrayToDataTable([
-                ['Compañia', 'Pizzas vendidas'],
-                ['Godfather',     g1],
-                ['Dominos',      d1],
-                ['Pizza hut',  p1],
-                ['IMOs', i1]
-                ]);
-
-                var options = {
-                title: '',
-                pieHole:.4,
-            };
-
-                var chart = new google.visualization.PieChart(document.getElementById('piechart_3d'));
-                chart.draw(data, options);
-            }
-        </script>
-
-
-        <!-- Pie Chart -->
-        <div class="col-xl-4 col-lg-5">
-            <div class="card shadow mb-4">
-                <!-- Card Header - Dropdown -->
-                <div
-                        class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                    <h6 class="m-0 font-weight-bold text-primary">Pizzas vendidas</h6>
-                    <div class="dropdown no-arrow">
-
-                        <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in"
-                             aria-labelledby="dropdownMenuLink">
-                            <div class="dropdown-header">Dropdown Header:</div>
-                            <a class="dropdown-item" href="#">Action</a>
-                            <a class="dropdown-item" href="#">Another action</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Something else here</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Card Body -->
-                <div class="card-body">
-                    <div class="chart-pie pt-4 pb-2">
-                        <div id="piechart_3d" ></div>
-                    </div>
-
-                </div>
-            </div>
-        </div>
+        <img
+                src="https://image.shutterstock.com/image-photo/pizza-chicken-tomatoes-on-black-600w-1906184089.jpg"
+                class="w-100 shadow-1-strong rounded mb-4"
+                alt="Boat on Calm Water"
+        />
     </div>
 
+    <div class="col-lg-4 mb-4 mb-lg-0">
+        <img
+                src="https://image.shutterstock.com/image-photo/slice-pizza-isolated-on-black-600w-69776152.jpg"
+                class="w-100 shadow-1-strong rounded mb-4"
+                alt="Waves at Sea"
+        />
 
-
-
-
-
-    <script>
-        let g={{god}},d={{domi}},h={{hut}},i={{imo}}
-
-        const ctx = document.getElementById('myChart');
-        const myChart = new Chart(ctx, {
-            type: 'bar',
-            data: {
-                labels: ['Godfather', 'Dominos', 'Pizza Hut', 'IMOs'],
-                datasets: [{
-                    label: '',
-                    data: [g, d, h, i],
-                    backgroundColor: [
-                        'rgba(255, 99, 132, 0.2)',
-                        'rgba(54, 162, 235, 0.2)',
-                        'rgba(255, 206, 86, 0.2)',
-                        'rgba(75, 192, 192, 0.2)',
-                        'rgba(153, 102, 255, 0.2)',
-                        'rgba(255, 159, 64, 0.2)'
-                    ],
-                    borderColor: [
-                        'rgba(255, 99, 132, 1)',
-                        'rgba(54, 162, 235, 1)',
-                        'rgba(255, 206, 86, 1)',
-                        'rgba(75, 192, 192, 1)',
-                        'rgba(153, 102, 255, 1)',
-                        'rgba(255, 159, 64, 1)'
-                    ],
-                    borderWidth: 1
-                }]
-            },
-            options: {
-                scales: {
-                    y: {
-                        beginAtZero: true
-                    }
-                }
-            }
-        });
-    </script>
-    <!-- Content Row -->
-    <div class="row">
-        <!-- Content Column -->
-        <!-- /.container-fluid -->
-            <!-- Area Chart -->
-            <div class="col-xl-12 col-lg-7">
-                    <!-- Card Header - Dropdown -->
-                    <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-                        <h6 class="m-0 font-weight-bold text-primary">Top 10 pizzas pizzas mas vendidas</h6>
-                        <div class="dropdown no-arrow">
-                        </div>
-                    </div>
-                    <div class="row">
-                    <!-- Card Body -->
-                    {{#each top1}}
-                        <div class="col-xl-3 col-md-3 mb-3">
-                            <div class="card" style="width: 15rem;">
-                                <div class="card-header">{{Company}}
-                                </div>
-                                <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">Nombre:{{'Pizza Name'}}</li>
-                                    <li class="list-group-item">Precio: ${{Price}}</li>
-                                    <li class="list-group-item">Unidades por semana: {{Unitsperweek}}</li>
-                                </ul>
-                            </div>
-                        </div>
-                    {{/each}}
-                </div>
-                </div>
-            </div>
-
-
-
-
-
+        <img
+                src="https://image.shutterstock.com/image-photo/pizza-ham-olives-isolated-on-600w-547615816.jpg"
+                class="w-100 shadow-1-strong rounded mb-4"
+                alt="Yosemite National Park"
+        />
+    </div>
+</div>
+</div>

@@ -10,7 +10,13 @@ const {MongoClient} = require("mongodb");
 const uri2 = "mongodb+srv://Fragoso_Mexico:POTRISH44@elclustermasproodeladee.ant5j.mongodb.net/?retryWrites=true&w=majority";
 base();
 base2();
-router.get('/', async (req, res) => {
+
+router.get('/',(req,res) =>{
+        res.render('index');
+});
+
+
+router.get('/esta', async (req, res) => {
     MongoClient.connect(uri2, function (err, db) {
         if (err) throw err;
        let dbo2 = db.db("nodo_Luis");
@@ -40,7 +46,7 @@ router.get('/', async (req, res) => {
                 else {
                     cara = carata;
 
-                        res.render('index', {bara,top1, cara,total,god:total1,domi:total3,hut:total2,imo:total4,gods:pizza1,domis:pizza2,huts:pizza3,imos:pizza4});
+                        res.render('estadisticas', {bara,top1, cara,total,god:total1,domi:total3,hut:total2,imo:total4,gods:pizza1,domis:pizza2,huts:pizza3,imos:pizza4});
                 }
             });
         }
