@@ -60,9 +60,9 @@ app.use(validator());
 });*/
 
 // Routes
-app.use(require('/src/routes/index'));
+app.use(require('./src/routes/index'));
 //app.use(require('./src/routes/authentication'));
-app.use('/links', require('/src/routes/links'));
+app.use('/links', require('./src/routes/links'));
 
 // Public
 app.use(express.static(path.join(__dirname, 'src/public')));
