@@ -8,7 +8,7 @@ const passport = require('passport');
 const flash = require('connect-flash');
 const MySQLStore = require('express-mysql-session')(session);
 const bodyParser = require('body-parser');
-
+require('dotenv').config()
 
 
 
@@ -19,6 +19,8 @@ const app = express();
 //require('./lib/passport');
 
 // Settings
+
+
 app.set('port', process.env.PORT || 4000);
 app.set('views', path.join(__dirname, 'src/views'));
 
